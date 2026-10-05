@@ -1,2 +1,2 @@
 Hola
-Texto introducido en rama4
+Texto introducido en rama4.
